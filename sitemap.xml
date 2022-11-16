@@ -1,0 +1,27 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- bou-devlpr home page -->
+<url>
+<loc>http://bou-devlpr.xyz/</loc>
+<priority>1.00</priority>
+</url>
+<!-- About the developer of the website -->
+<url>
+<loc>http://bou-devlpr.xyz/about.php</loc>
+<priority>1.00</priority>
+</url>
+<!-- Image cropping and downloading -->
+<url>
+<loc>http://bou-devlpr.xyz/crop_image.php</loc>
+<priority>1.00</priority>
+</url>
+<!-- Image scaling and downloading -->
+<url>
+<loc>http://bou-devlpr.xyz/image_scale.php</loc>
+<priority>1.00</priority>
+</url>
+<!-- Programming projects -->
+<url>
+<loc>http://bou-devlpr.xyz/projects/tic-tac-toe-game.php</loc>
+<priority>1.00</priority>
+</url>
+</urlset>

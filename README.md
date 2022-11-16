@@ -1,2 +1,2 @@
 # Portfolio
-Online hosted postfolio
+Online hosted portfolio (hosted on bou-devlpr.xyz)
